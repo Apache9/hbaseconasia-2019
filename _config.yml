@@ -1,6 +1,7 @@
 # Site settings
 title: "HBaseConAsia"
 email: dev@hbase.apache.org
+service-email: hbaseconasia2018@service.alibaba.com
 url: https://hbase.apache.org/hbaseconasia-2018/
 description: "The Community Event for Apache HBase&trade;"
 keywords: "hbasecon apache hbase"
