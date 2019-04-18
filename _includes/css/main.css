@@ -166,7 +166,9 @@ header .intro-text .skills {
     outline: 0;
 }
 
-.navbar-default,
+.navbar-default {
+    background: #{{ site.color.links }}
+}
 .navbar-inverse {
     border: 0;
 }
