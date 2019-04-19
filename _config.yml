@@ -17,6 +17,7 @@ contact: static
 color:
   primary: a0a0a0 #194,17,26 : 187, 15,20
   links: e82727
+  nav: ba160c
   primary-rgb: "194,17,26"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
